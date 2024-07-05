@@ -9,7 +9,7 @@ col1, col2 = st.columns(2)
 
 with col1:
     st.subheader("Hi :wave:")
-    st.title("I am Ajala Oluwafemi Daniels")
+    st.title("I am Ajala Oluwafemi Daniel")
 
 with col2:
     st.image("images/Daniel.png")
