@@ -64,7 +64,7 @@ with col1:
     st.write("- 1.5 Million Hours+ Watch time")
 
 with col2:
-    st.video("https://youtu.be/BFlRmIvqwSA?si=gc31S-bYiMtCXdFH")
+    st.video("https://youtu.be/16S2InYp4nI")
 
 st.title(" ")
 
