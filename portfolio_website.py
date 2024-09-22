@@ -67,6 +67,20 @@ if st.button("ASK", use_container_width=400):
 
 st.title(" ")
 
+# Animated Elements
+st.write("Scroll down to learn more about me!")
+st.animation("images/scroll.gif", width=50, height=50)
+
+# Custom Fonts and Colors
+st.markdown("""
+<style>
+    .font-custom {
+        font-family: 'Montserrat', sans-serif;
+        color: #333;
+    }
+</style>
+""", unsafe_allow_html=True)
+
 col1, col2 = st.columns(2)
 with col1:
     st.subheader("Youtube Channel")
