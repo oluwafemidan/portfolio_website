@@ -11,6 +11,18 @@ with col1:
     st.subheader("Hi :wave:")
     st.title("I am Ajala Oluwafemi Daniel")
 
+st.markdown("""
+<a href="https://www.linkedin.com/in/oluwafemi-daniel-ajala-406911172/">
+    <img src="https://brand.linkedin.com/content/dam/me/business/en-us/brand-site/v2/bg/LI-Bug.svg" width="20" height="20" />
+</a>
+<a href="https://x.com/ajala14055">
+    <img src="X-logo.png" width="20" height="20" />
+</a>
+<a href="https://github.com/oluwafemidan">
+    <img src="https://github.com/images/logo/github-icon.svg" width="20" height="20" />
+</a>
+""", unsafe_allow_html=True)
+
 with col2:
     st.image("images/Daniel.png")
 
