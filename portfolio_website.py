@@ -67,9 +67,9 @@ if st.button("ASK", use_container_width=400):
 
 st.title(" ")
 
-# Animated Elements
-st.write("Scroll down to learn more about me!")
-st.animation("images/scroll.gif", width=50, height=50)
+# # Animated Elements
+# st.write("Scroll down to learn more about me!")
+# st.animation("images/scroll.gif", width=50, height=50)
 
 # Custom Fonts and Colors
 st.markdown("""
